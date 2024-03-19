@@ -53,8 +53,7 @@ servants = [
     {'name': 'Penthesilea', 'level': 90, 'grailed': 'No', 'skill_levels': '10/10/10', 'rarity': '4*'},
     {'name': 'Ibaraki Douji', 'level': 90, 'grailed': 'No', 'skill_levels': '10/10/10', 'rarity': '4*'},
     {'name': 'Ganesha', 'level': 90, 'grailed': 'No', 'skill_levels': '10/10/10', 'rarity': '5*'},
-    {'name': 'Angra Mainyu', 'level': 90, 'grailed': 'No', 'skill_levels': '10/10/10', 'rarity': '0*'},  # Unique rarity
-    # Note: Some servants like "Tam Lin Tristan" might not have an established rarity or class in the actual game context.
+    {'name': 'Angra Mainyu', 'level': 90, 'grailed': 'No', 'skill_levels': '10/10/10', 'rarity': '0*'},
 ]
 
 
